@@ -28,13 +28,13 @@ Instructions for setup will be added when code is uploaded.
 ---
 
 ## 📂 Project Structure
-LogGPT/
-├── gui/ (Python frontend)
-├── models/ (GGUF files)
-├── launcher/ (Smart scripts)
-├── TTS/
-├── STT/
-└── README.md
+- LogGPT/
+- ├── gui/ (Python frontend)
+- ├── models/ (GGUF files)
+- ├── launcher/ (Smart scripts)
+- ├── TTS/
+- ├── STT/
+- └── README.md
 
 
 ---
