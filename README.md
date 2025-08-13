@@ -41,5 +41,5 @@ LogGPT/
 
 ## 🧠 Author
 
-Made by **Hayden Kellogg** • [https://haydeniskellogg.github.io](https://haydeniskellogg.github.io)
+Made by **Hayden Kellogg** 
 
